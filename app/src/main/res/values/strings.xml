@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Save Image</string>
+    <string name="upload">Upload</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- URL to server-->
+    <string name="url_server">http://motg.000webhostapp.com</string>
+    <string name="url_get_all_images">http://motg.000webhostapp.com/getAllImages.php</string>
+    <string name="url_get_image">http://motg.000webhostapp.com/getImage.php</string>
+    <string name="url_insert_image">http://motg.000webhostapp.com/insertImage.php</string>
+    <string name="cam">Camera</string>
+    <string name="select">Select Image</string>
+</resources>
